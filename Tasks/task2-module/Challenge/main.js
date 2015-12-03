@@ -13,4 +13,4 @@ cours.setName(/* ... */);
 /* 3. */
 
 //Print the description in the console
-console.log(* ... */);
+console.log(/* ... */);
